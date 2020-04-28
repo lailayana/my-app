@@ -1,7 +1,6 @@
 # Deploying a Simple react app  on github 
-
-#What is this ? 
-A following the tuto of <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">@yuribenjamin</a> for create and deploy and github
+ 
+I followed the tuto of <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">@yuribenjamin</a> for create and deploy and github
 
 # The steps reminder
 
